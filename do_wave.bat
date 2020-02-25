@@ -1,0 +1,3 @@
+ 
+
+gtkwave tb.vcd
